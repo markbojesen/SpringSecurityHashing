@@ -6,5 +6,7 @@
 
 - `git clone`
 - When importing the, choose the `pom.xml`
+- Make sure you have a local instance of MySQL running.
+- Go to `application.properties` and insert your own details
 - Terminal `mvn spring-boot:run`
 - Go to `localhost:8080/generate`
